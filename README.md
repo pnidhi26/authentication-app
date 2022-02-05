@@ -1,6 +1,6 @@
 
   
-  <p align="center">A progressive <a href="http://nodejs.org" target="blank">Node.js</a> framework from which I have build a Authentication App </p>
+  <p align="center">Using a progressive <a href="http://nodejs.org" target="blank">Nest.js</a> framework I have build a Authentication App </p>
  
  ## Description
 
